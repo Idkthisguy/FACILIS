@@ -3,6 +3,7 @@
 
 #include "core.hpp"
 #include "files.hpp"
+#include "ui.hpp"
 
 #define FACILIS_VERSION "0.1.0-alpha"
 
