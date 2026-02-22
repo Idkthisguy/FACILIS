@@ -12,7 +12,7 @@ namespace facilis
         std::cout << message << std::endl;
     }
 
-    inline std::string input(const std::string &prompt)
+    inline std::string cin(const std::string &prompt)
     {
         std::string val;
         std::cout << prompt;

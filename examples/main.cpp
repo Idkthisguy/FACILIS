@@ -10,7 +10,7 @@ int main()
     facilis::ui::reset();
 
     facilis::cout("\n Hello World!");
-    facilis::input("");
+    facilis::cin("");
 
     return 0;
 }
