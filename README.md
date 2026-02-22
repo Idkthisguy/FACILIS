@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/github/v/release/Idkthisguy/FACILIS?include_prereleases&label=version&color=orange)
+
 #  FACILIS
 **C++ power with Python simplicity.**
 
