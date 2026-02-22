@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/idkf0/Documents/FACILIS",
-      "program": "c:/Users/idkf0/Documents/FACILIS/build/Debug/outDebug",
+      "cwd": "c:/Users/idkf0/Documents/FACILIS/examples",
+      "program": "c:/Users/idkf0/Documents/FACILIS/examples/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
